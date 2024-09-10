@@ -1,0 +1,16 @@
+# Sistema PetShop - Ajuda
+
+## Navegação
+- Use o menu superior para navegar entre as seções de Produtos, Serviços, Cadastro e Agendamento.
+- Você pode acessar os produtos e serviços disponíveis diretamente nas seções correspondentes.
+
+## Cadastro
+- Preencha o formulário com os dados do cliente e do pet.
+- O botão "Cadastrar" enviará as informações após a validação.
+
+## Agendamento
+- Selecione o serviço, a data e o horário desejado para agendar o serviço de seu pet.
+- Confirme o agendamento clicando em "Agendar".
+
+## Contato
+- O rodapé contém os dados de contato da PetShop. Use essas informações para tirar dúvidas ou obter mais informações.
